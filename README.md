@@ -1,2 +1,4 @@
 # DeepLearningProject
-Deep Learning Project by Rohitangshu Bose 
+Deep Learning Project
+Name: Rohitangshu Bose 
+Topic: Classification on CIFAR100 dataset
